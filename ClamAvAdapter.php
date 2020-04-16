@@ -79,7 +79,7 @@ class ClamAvAdapter extends AbstractAdapter
 
         $cmd[] = $path;
 
-        return $this->createProcess([$this->clamScanPath, '--no-summary']);
+        return $this->createProcess($cmd);
     }
 
     /**
