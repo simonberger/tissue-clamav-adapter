@@ -43,7 +43,7 @@ class ClamAvAdapter extends AbstractAdapter
      */
     protected function detect($path)
     {
-        $process    = $this->createProcess($path);
+        $process    = $this->createClamAvProcess($path);
         $returnCode = $process->run();
         $output     = trim($process->getOutput());
         if (0 !== $returnCode && !strstr($output, ' FOUND')) {
