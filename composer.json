@@ -1,5 +1,5 @@
 {
-  "name": "cleentfaar/tissue-clamav-adapter",
+  "name": "simonberger/tissue-clamav-adapter",
   "description": "A Tissue adapter that implements the ClamAV virus-scanner",
   "keywords": [
     "tissue",
