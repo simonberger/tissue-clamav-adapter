@@ -1,13 +1,10 @@
-# Tissue adapter for ClamAV [![License](https://poser.pugx.org/cleentfaar/tissue-clamav-adapter/license.svg)](https://packagist.org/packages/cleentfaar/tissue-clamav-adapter)
+# Tissue adapter for ClamAV [![License](https://poser.pugx.org/simonberger/tissue-clamav-adapter/license.svg)](https://packagist.org/packages/simonberger/tissue-clamav-adapter)
 
-An adapter for the [Tissue](https://github.com/cleentfaar/tissue) library that implements the ClamAV engine.
+An adapter for the [Tissue](https://github.com/simonberger/tissue) library that implements the ClamAV engine.
 
-[![Build Status](https://secure.travis-ci.org/cleentfaar/tissue-clamav-adapter.svg)](http://travis-ci.org/cleentfaar/tissue-clamav-adapter)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/cleentfaar/tissue-clamav-adapter/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/cleentfaar/tissue-clamav-adapter/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/cleentfaar/tissue-clamav-adapter/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/cleentfaar/tissue-clamav-adapter/?branch=master)<br/>
-[![Latest Stable Version](https://poser.pugx.org/cleentfaar/tissue-clamav-adapter/v/stable.svg)](https://packagist.org/packages/cleentfaar/tissue-clamav-adapter)
-[![Total Downloads](https://poser.pugx.org/cleentfaar/tissue-clamav-adapter/downloads.svg)](https://packagist.org/packages/cleentfaar/tissue-clamav-adapter)
-[![Latest Unstable Version](https://poser.pugx.org/cleentfaar/tissue-clamav-adapter/v/unstable.svg)](https://packagist.org/packages/cleentfaar/tissue-clamav-adapter)
+[![Latest Stable Version](https://poser.pugx.org/simonberger/tissue-clamav-adapter/v/stable.svg)](https://packagist.org/packages/simonberger/tissue-clamav-adapter)
+[![Total Downloads](https://poser.pugx.org/simonberger/tissue-clamav-adapter/downloads.svg)](https://packagist.org/packages/simonberger/tissue-clamav-adapter)
+[![Latest Unstable Version](https://poser.pugx.org/simonberger/tissue-clamav-adapter/v/unstable.svg)](https://packagist.org/packages/simonberger/tissue-clamav-adapter)
 
 
 ### Requirements
