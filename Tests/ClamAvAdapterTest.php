@@ -1,6 +1,6 @@
 <?php
 
-namespace CL\Tissue\Adapter\ClamAV\Tests;
+namespace CL\Tissue\Adapter\ClamAv\Tests;
 
 use CL\Tissue\Adapter\ClamAv\ClamAvAdapter;
 use CL\Tissue\Tests\Adapter\AbstractAdapterTestCase;

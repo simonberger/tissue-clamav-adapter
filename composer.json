@@ -18,16 +18,21 @@
     }
   ],
   "require": {
-    "php": ">=5.4",
-    "simonberger/tissue": "0.1.0"
+    "php": ">=7.1",
+    "simonberger/tissue": "^0.3.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "~4.2"
+    "phpunit/phpunit": "^7.5"
   },
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "CL\\Tissue\\Adapter\\ClamAv\\": ""
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "CL\\Tissue\\Adapter\\ClamAv\\Tests\\": "Tests/"
     }
   },
   "config": {
